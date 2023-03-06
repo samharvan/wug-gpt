@@ -1,6 +1,6 @@
 ## wug-gpt
 
-#Read me before running the main.R script
+Read me before running the main.R script
 
 IMPORTANT: An API key is needed to run this script, available via the communal OpenAI account
 
